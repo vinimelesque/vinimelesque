@@ -23,13 +23,13 @@
     <a href = "mailto: viniciusmelesqueds@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/vinícius-melesque-60a090246/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+    <a href = "https://www.youtube.com/@melesque019">
       <img width="35" src="youtube.svg">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "https://www.instagram.com/melesque019/">
       <img width="25" src="instagram.png">
     </a>
 </div>
