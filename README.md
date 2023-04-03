@@ -1,9 +1,5 @@
 ## Eaee rapaziada, Melesque aqui 👋
 
-![Vinicius Melesques GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinimelesque&show_icons=true&theme=react&include_all_commits=true&count_private=true)
-
-![Luan's GithHub stats](https://github-readme-stats.vercel.app/api?username=vinimelesque&show_icons=true&theme=dark&count_private=true&border_radius=50&locale=pt-br&hide_title=true&include_all_commits=false&custom_title=Minhas%20Estatísticas)
-
 <div>
   <img height="182em" src="https://github-readme-stats.vercel.app/api?username=vinimelesque&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img align="right" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimelesque&layout=compact&langs_count=16&theme=react"/>
