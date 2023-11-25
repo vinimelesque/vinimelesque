@@ -2,25 +2,20 @@
 <img align="center" style="margin-bottom:100px" width=100% src="githubtop.png" />
 &nbsp;&nbsp;&nbsp;
 
-
-<div>
-  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=vinimelesque&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimelesque&layout=compact&langs_count=16&theme=react"/>
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=vinimelesque&theme=react&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimelesque&layout=compact&langs_count=16&theme=react" />
 </div>
+ 
+ &nbsp;
+ &nbsp;
 
 <br>
 
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: viniciusmelesqueds@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/vinícius-melesque-60a090246/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/@melesque019">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/melesque019/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
+## Contatos:
+
+<div> 
+<a href="https://www.instagram.com/melesque019/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:viniciusmelesqueds@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vinícius-melesque-60a090246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
