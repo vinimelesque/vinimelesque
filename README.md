@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="giftopgithub.com" />
+<img align="center" style="margin-bottom:100px" width=100% src="giftopgithub.gif" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Iniciando no mercado de TI procurando criar projetos e resolver problemas utilizando tecnologia! ❤️ <br><br> Atualmente, cursando Desenvolvimento de Sistemas ministrado pela <strong>ETEC Bento Quirino</strong> Para mim, se comunicar com pessoas que trabalham no mercado onde eu procuro me especializar me encanta, pois assim os mesmos mostram suas habilidades e sua rotina de trabalho, me deixando cada vez mais curioso em aprender mais em como aprimorar meus conhecimentos.</p>&nbsp;
